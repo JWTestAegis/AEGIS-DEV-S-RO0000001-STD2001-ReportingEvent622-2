@@ -8,6 +8,10 @@
       }, 
       {
         "Name": "INHOUSE",
+        "URL": "https://aegisrspm."
+      }, 
+      {
+        "Name": "INHOUSE-2",
         "URL": "https://aegisrspm.akaws-r-alb.onecloudlabo.com/in-house-20251216/latest"
       }
     ]
